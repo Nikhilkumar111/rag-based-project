@@ -1,0 +1,418 @@
+{
+     "chunks": [
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 0.0,
+               "end": 4.76,
+               "text": " Guys, in today's video, I will give you an exercise and Jojo will solve this exercise."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 4.76,
+               "end": 6.6000000000000005,
+               "text": " I will also give a shout out to them."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 6.6000000000000005,
+               "end": 8.8,
+               "text": " So, write in the comment section."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 8.8,
+               "end": 15.36,
+               "text": " If you accept this challenge, I will give you a question and you will have to solve it."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 15.36,
+               "end": 21.080000000000002,
+               "text": " Add will be the basis of all the concepts that we have studied in the Sigma Web Development course."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 21.080000000000002,
+               "end": 24.080000000000002,
+               "text": " So, I am very excited to give you a question."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 24.080000000000002,
+               "end": 26.0,
+               "text": " I hope you are equally excited."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 26.0,
+               "end": 27.400000000000002,
+               "text": " Let's roll the intro."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 30.0,
+               "end": 36.56,
+               "text": " Music"
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 36.56,
+               "end": 40.76,
+               "text": " So, guys, as you can see in the computer screen, if you haven't accessed all the playlists yet,"
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 40.76,
+               "end": 45.04,
+               "text": " then click here and click on this playlist and save the click."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 45.04,
+               "end": 49.64,
+               "text": " And if you haven't accessed the code, then that too is updated to video 11."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 49.64,
+               "end": 52.32,
+               "text": " And I will keep updating as the videos continue."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 52.32,
+               "end": 56.24,
+               "text": " Now, for the question that I want to give you, I will make a folder first."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 56.24,
+               "end": 58.400000000000006,
+               "text": " I will definitely name the folder."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 58.4,
+               "end": 61.08,
+               "text": " I will click shift right and open with code."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 61.08,
+               "end": 63.199999999999996,
+               "text": " And look at this challenge, everyone accepts it."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 63.199999999999996,
+               "end": 65.48,
+               "text": " If you accept it, I will feel good."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 65.48,
+               "end": 71.75999999999999,
+               "text": " What you do here is that I will make an index.html and I will give you a question."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 71.75999999999999,
+               "end": 78.96,
+               "text": " So, the question is, you are given 12 video files."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 78.96,
+               "end": 82.4,
+               "text": " Okay, 12 files, 6 audio and 6 video."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 84.2,
+               "end": 85.56,
+               "text": " And 6 video."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 86.52,
+               "end": 96.08,
+               "text": " Design a website using HTML only and which shows these 12 files."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 96.08,
+               "end": 101.28,
+               "text": " Okay, I will do a little toggle word wrap so that you can see the word wrap."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 101.28,
+               "end": 104.4,
+               "text": " So, what you have to do is that you are given 12 files."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 104.4,
+               "end": 106.2,
+               "text": " And what is the name of those files?"
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 106.2,
+               "end": 108.44,
+               "text": " 1.mp3, 2.mp3."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 108.44,
+               "end": 111.48,
+               "text": " So, I will tell you what is the name of those files?"
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 112.44,
+               "end": 117.24000000000001,
+               "text": " So, this is your mp3 files."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 117.24000000000001,
+               "end": 123.80000000000001,
+               "text": " Then you have 1.mp4, 2.mp4, all the way till 6.mp4."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 123.80000000000001,
+               "end": 125.80000000000001,
+               "text": " Okay, this is your file."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 125.80000000000001,
+               "end": 130.0,
+               "text": " So, you have to show these 12 files by previewing."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 130.0,
+               "end": 131.6,
+               "text": " So, I hope this will be done."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 131.6,
+               "end": 133.16,
+               "text": " It is a very simple question."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 133.16,
+               "end": 137.04000000000002,
+               "text": " And you all must quickly comment and write the challenge accepted."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 137.04000000000002,
+               "end": 141.0,
+               "text": " Because if you accept this challenge, then you can write the challenge accepted in the first instance."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 141.12,
+               "end": 145.2,
+               "text": " And whoever gives me the code, I will give a shout out."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 145.2,
+               "end": 148.0,
+               "text": " The person who writes the challenge accepted will get a shout out for sure."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 148.0,
+               "end": 151.08,
+               "text": " And you all must definitely tell me in the comment section."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 151.08,
+               "end": 153.4,
+               "text": " So, I hope you will complete this."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 153.4,
+               "end": 155.4,
+               "text": " And this is a very simple follow up."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 155.4,
+               "end": 157.92000000000002,
+               "text": " I know that many people will also say that this is very simple."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 157.92000000000002,
+               "end": 163.72,
+               "text": " One more thing I will hope from you all is that you all should try to solve this question"
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 163.72,
+               "end": 167.52,
+               "text": " in the most useable way possible."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 167.52,
+               "end": 169.52,
+               "text": " So, this was the question of our today's episode."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 169.52,
+               "end": 171.52,
+               "text": " I hope you all enjoyed it."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 171.52,
+               "end": 173.52,
+               "text": " I will select it and forward slash it."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 173.52,
+               "end": 176.52,
+               "text": " And what happens if you do the control forward slash?"
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 176.52,
+               "end": 178.52,
+               "text": " That you can comment or uncomment."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 178.52,
+               "end": 180.52,
+               "text": " So, if you press control forward slash, then it will be uncommented."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 180.52,
+               "end": 184.52,
+               "text": " And if you press control forward slash again, then it will be commented."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 184.52,
+               "end": 186.52,
+               "text": " So, you have to complete this website."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 186.52,
+               "end": 188.52,
+               "text": " It is a very simple problem."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 188.52,
+               "end": 190.52,
+               "text": " It is a straight forward problem."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 190.52,
+               "end": 192.52,
+               "text": " Everyone must solve it."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 192.52,
+               "end": 194.52,
+               "text": " So, that's all for now."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 194.52,
+               "end": 196.52,
+               "text": " Thank you so much for watching this video."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 196.52,
+               "end": 198.52,
+               "text": " And I will see you next time."
+          },
+          {
+               "number": "3",
+               "title": "Entities, Code tag and more on HTML",
+               "start": 199.52,
+               "end": 201.52,
+               "text": " Bye."
+          }
+     ],
+     "text": " Guys, in today's video, I will give you an exercise and Jojo will solve this exercise. I will also give a shout out to them. So, write in the comment section. If you accept this challenge, I will give you a question and you will have to solve it. Add will be the basis of all the concepts that we have studied in the Sigma Web Development course. So, I am very excited to give you a question. I hope you are equally excited. Let's roll the intro. Music So, guys, as you can see in the computer screen, if you haven't accessed all the playlists yet, then click here and click on this playlist and save the click. And if you haven't accessed the code, then that too is updated to video 11. And I will keep updating as the videos continue. Now, for the question that I want to give you, I will make a folder first. I will definitely name the folder. I will click shift right and open with code. And look at this challenge, everyone accepts it. If you accept it, I will feel good. What you do here is that I will make an index.html and I will give you a question. So, the question is, you are given 12 video files. Okay, 12 files, 6 audio and 6 video. And 6 video. Design a website using HTML only and which shows these 12 files. Okay, I will do a little toggle word wrap so that you can see the word wrap. So, what you have to do is that you are given 12 files. And what is the name of those files? 1.mp3, 2.mp3. So, I will tell you what is the name of those files? So, this is your mp3 files. Then you have 1.mp4, 2.mp4, all the way till 6.mp4. Okay, this is your file. So, you have to show these 12 files by previewing. So, I hope this will be done. It is a very simple question. And you all must quickly comment and write the challenge accepted. Because if you accept this challenge, then you can write the challenge accepted in the first instance. And whoever gives me the code, I will give a shout out. The person who writes the challenge accepted will get a shout out for sure. And you all must definitely tell me in the comment section. So, I hope you will complete this. And this is a very simple follow up. I know that many people will also say that this is very simple. One more thing I will hope from you all is that you all should try to solve this question in the most useable way possible. So, this was the question of our today's episode. I hope you all enjoyed it. I will select it and forward slash it. And what happens if you do the control forward slash? That you can comment or uncomment. So, if you press control forward slash, then it will be uncommented. And if you press control forward slash again, then it will be commented. So, you have to complete this website. It is a very simple problem. It is a straight forward problem. Everyone must solve it. So, that's all for now. Thank you so much for watching this video. And I will see you next time. Bye."
+}

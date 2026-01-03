@@ -1,0 +1,5 @@
+I'd be happy to help you with your Sigma web development course.
+
+So, you're asking about entities in HTML? Unfortunately, I couldn't find any information on this topic in our current course materials. It's possible that it was covered in a previous video, but I'm not aware of any specific content related to "entities" in HTML.
+
+However, we did cover a similar concept earlier in the course when discussing code tags and more on HTML (video 3). In that video, at around 86-90 seconds, we talked about how comments can be used to explain or uncomment certain parts of our code. Would you like me to guide you to that specific video?
